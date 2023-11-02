@@ -13,15 +13,9 @@ npm install --save awesome-pdf-editor
 ## Usage
 
 ```tsx
-import React, { Component } from 'react'
-
-import MyComponent from 'pdf-editor'
-import 'pdf-editor/dist/index.css'
-
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
+import { PDFEditor } from 'awesome-pdf-editor'
+const App = () => {
+  return <PDFEditor path='./template.pdf' templates={[]} />
 }
 ```
 
