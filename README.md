@@ -2,7 +2,7 @@
 
 > simple pdf library with text field image field.
 
-[![NPM](https://img.shields.io/npm/v/pdf-editor.svg)](https://www.npmjs.com/package/pdf-editor) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/pdf-editor.svg)](https://www.npmjs.com/package/awesome-pdf-editor) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
