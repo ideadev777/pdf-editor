@@ -1,4 +1,4 @@
-# pdf-editor
+# awesome-pdf-editor
 
 > simple pdf library with text field image field.
 
