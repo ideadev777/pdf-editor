@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save pdf-editor
+npm install --save awesome-pdf-editor
 ```
 
 ## Usage
